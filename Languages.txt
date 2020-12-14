@@ -1,11 +1,16 @@
 
 
 
-welcom
+welcome
 Me roshan wants to read more
 Languages which I know: 
 java
 c++
+
 Now web:
 html
 css
+
+c
+python
+
